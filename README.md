@@ -1,2 +1,1 @@
-"# marlin_config" 
-"# marlin_config" 
+This is my git repo for my ender 3 v2 marlin setup. 
